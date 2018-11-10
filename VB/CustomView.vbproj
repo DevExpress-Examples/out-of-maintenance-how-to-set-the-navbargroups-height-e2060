@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectType>Local</ProjectType>
@@ -79,20 +79,21 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Data.v8.2">
-      <Name>DevExpress.Data.v8.2</Name>
+    <Reference Include="DevExpress.Printing.v13.1.Core">
+      <Name>DevExpress.Printing.v13.1.Core</Name>
       <Private>True</Private>
-      <HintPath>\\ccnet.devexpress.dev\LocalProjects\DXDlls\8.2.10\DevExpress.Data.v8.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Utils.v8.2">
-      <Name>DevExpress.Utils.v8.2</Name>
+    <Reference Include="DevExpress.Data.v13.1">
+      <Name>DevExpress.Data.v13.1</Name>
       <Private>True</Private>
-      <HintPath>\\ccnet.devexpress.dev\LocalProjects\DXDlls\8.2.10\DevExpress.Utils.v8.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.XtraNavBar.v8.2">
-      <Name>DevExpress.XtraNavBar.v8.2</Name>
+    <Reference Include="DevExpress.Utils.v13.1">
+      <Name>DevExpress.Utils.v13.1</Name>
       <Private>True</Private>
-      <HintPath>\\ccnet.devexpress.dev\LocalProjects\DXDlls\8.2.10\DevExpress.XtraNavBar.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v13.1">
+      <Name>DevExpress.XtraNavBar.v13.1</Name>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>

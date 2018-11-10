@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectType>Local</ProjectType>
@@ -79,14 +79,17 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Data.v9.3">
-      <Name>DevExpress.Data.v9.3</Name>
+    <Reference Include="DevExpress.Printing.v13.1.Core">
+      <Name>DevExpress.Printing.v13.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.Utils.v9.3">
-      <Name>DevExpress.Utils.v9.3</Name>
+    <Reference Include="DevExpress.Data.v13.1">
+      <Name>DevExpress.Data.v13.1</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraNavBar.v9.3">
-      <Name>DevExpress.XtraNavBar.v9.3</Name>
+    <Reference Include="DevExpress.Utils.v13.1">
+      <Name>DevExpress.Utils.v13.1</Name>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v13.1">
+      <Name>DevExpress.XtraNavBar.v13.1</Name>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>

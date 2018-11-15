@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [MyView.cs](./CS/MyView.cs) (VB: [MyView.vb](./VB/MyView.vb))
+<!-- default file list end -->
 # How to set the NavBarGroup's height
 
 
